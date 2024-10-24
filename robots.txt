@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://domabohe.github.io/sitemap/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/oid/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/ntd/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/GlZ/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/Oxy/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/DAd/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/gSt/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/IaT/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/fej/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/pQM/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/ZkM/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/pKS/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/Gvh/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/ltV/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/Tya/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/vtx/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/Vqc/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/UKH/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/EqC/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/neX/sitemap_index.domabohe
+Sitemap: https://domabohe.github.io/uLR/sitemap_index.domabohe
